@@ -52,6 +52,10 @@ I, personally, prefer to create my presentation content before I get too mixed u
 	</body>
 </html>
 ```
+The order of the presentation markup must be *.reveal > .slides > section*. Each *section* represents a separate slide. 
+
+#### Style
+verticle slides
 
 ## Conclusion
 
