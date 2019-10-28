@@ -61,9 +61,12 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 	<p>By: Addison Van Zandbergen</p>	
 </section>
 ```
+3. Continue to add sections as desired.
 
 #### Style
 verticle slides
+transitions
+pictures
 
 ## Conclusion
 
