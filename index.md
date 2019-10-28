@@ -64,9 +64,10 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 3. Continue to add sections as desired.
 
 #### Style
-verticle slides
-transitions
-pictures
+- verticle slides
+- transitions
+- pictures
+- themes
 
 ## Conclusion
 
