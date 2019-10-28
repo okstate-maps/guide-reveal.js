@@ -57,7 +57,8 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 ```
 <section>
 	<h1>Hedgehogs:</h1>
-		<p>The World's Cutest Animal</p>
+	<h2>The World's Cutest Animal</h2>
+	<p>By: Addison Van Zandbergen</p>	
 </section>
 ```
 
