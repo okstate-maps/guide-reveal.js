@@ -50,7 +50,8 @@ I, personally, prefer to create my presentation content before I get too mixed u
 			Reveal.initialize();
 		</script>
 	</body>
-</html>```
+</html>
+```
 
 ## Conclusion
 
