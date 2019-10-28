@@ -16,7 +16,7 @@ There are many features available to add flare to your presentation and *wow* yo
 
 #### Basic Setup
 The **basic setup** allows you to author your very own presentations only. There is a **full setup**, but we'll go over this in another guide. 
-1. To get started, you need to download the lastest version of reveal.js from .
+1. To get started, you need to download the lastest version of reveal.js from [this website](https://github.com/hakimel/reveal.js/releases).
 
 #### More Sub Delicious
 
