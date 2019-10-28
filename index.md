@@ -52,7 +52,14 @@ I, personally, prefer to create my presentation content before I get too mixed u
 	</body>
 </html>
 ```
-The order of the presentation markup must be *.reveal > .slides > section*. Each *section* represents a separate slide. 
+The order of the presentation markup must be *.reveal > .slides > section*. Each *section* represents a different slide. 
+2. Let's create a title page. For my presentation, I will be talking about hedgehogs, so this is the code for my very first slide. 
+```
+<section>
+	<h1>Hedgehogs:</h1>
+		<p>The World's Cutest Animal</p>
+</section>
+```
 
 #### Style
 verticle slides
