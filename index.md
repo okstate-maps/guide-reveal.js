@@ -1,21 +1,20 @@
 ## About
-Last Updated *[add date here]*   
+Last Updated *[10/28/2019]*   
 Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room)
 
 
 ## Table of Contents
 - Introduction 
-- *[delicious content]*
-- - sub delicious content
+- - Basic Setup
 - - more sub delicious
 - Conclusion
 - Further Reading/Resources
 
 ## Introduction
+reveal.js is a wonderful way to create sleek and unique presentations using HTML.
+There are many features available to add flare to your presentation.
 
-## *[delicious content]*
-
-#### Sub Delicious Content
+#### Basic Setup
 
 #### More Sub Delicious
 
