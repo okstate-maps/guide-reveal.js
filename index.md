@@ -8,6 +8,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Basic Setup
 - - Folder Structure
 - - Creating Presentation Content
+- - Style
 - Conclusion
 - Further Reading/Resources
 
