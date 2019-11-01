@@ -67,7 +67,7 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 3. Continue to add sections as desired.
 
 #### Adding Style
-- Verticle Slides
+- ***Verticle Slides***
 Creating verticle slides is an easy way to spice up your presentation and allows you to sort your presentations into different sections.
 1. To create verticle slides, you will simply add sections within a section. These nested sections will serve as verticle slides.
 ```
@@ -139,7 +139,7 @@ If you would rather only auto-slide through a portion of your presentation, you 
 	</section>
 </section>
 ```
-- Transitions
+- ***Transitions***
 
 Transitions are a great way to add flare to your presentation and they are simple to add! You can choose from ```concave``` ```convex``` ```fade``` ```slide``` ```zoom``` and ```none```. To add a transition, just add a little bit of code to each section, like we did with auto-slide. 
 ```
@@ -156,7 +156,7 @@ You can also add different transitions for transitioning into and out of a slide
 </section>
 ```
 Feel free to try these out and find a combination that works best for you!
-- Fragments
+- ***Fragments***
 
 Fragments can be used to make individual elements pop! Just like slide transitions, you can add multiple fragment styles to each element.
 ```
@@ -173,7 +173,7 @@ Fragments can be used to make individual elements pop! Just like slide transitio
 	<p class="fragment highlight-blue">and drink lots of water!</p>
 </section>
 ```
-- Adding Pictures
+- ***Adding Pictures***
 
 Adding pictures in reveal.js is easy. All you need to do is add a simple line of code with a link to the picture you wish to include. 
 ```
@@ -185,8 +185,8 @@ Adding pictures in reveal.js is easy. All you need to do is add a simple line of
 
 ![Count Hogula Picture](images/cspic.PNG)
 
-- videos (HOW DO? DON'T KNOW)
-- Themes
+- ***videos (HOW DO? DON'T KNOW)***
+- ***Themes***
 
 You can change the appearance of your presentation by using different *themes*. The files you downloaded at the beginning of this guide include some preset themes. If none of these are to your liking, though, you can create your own by altering the style settings within one of these files and saving it as a new, personal theme. 
 
