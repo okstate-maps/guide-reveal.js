@@ -181,10 +181,25 @@ Adding pictures in reveal.js is easy. All you need to do is add a simple line of
 
 ![Count Hogula Picture](images/cspic.PNG)
 
-- videos
-- themes
+- videos (HOW DO? DON'T KNOW)
+- Themes
+You can change the appearance of your presentation by using different *themes*. The files you downloaded at the beginning of this guide include some preset themes. If none of these are to your liking, though, you can create your own by altering the style settings within one of these files and saving it as a new, personal theme. 
+
+To change the theme, change this line of code in the *<head>* section:
+```
+<link rel="stylesheet" href="css/theme/black.css">
+```
+	*Example:* 
+	```
+	<link rel="stylesheet" href="css/theme/league.css">
+	```
+
+![Preset Themes](images/themes.PNG)
+
+
 
 #### Export as PDF
+(dont know how do either)
 
 ## Conclusion
 
