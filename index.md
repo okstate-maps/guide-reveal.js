@@ -9,6 +9,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Folder Structure
 - - Creating Presentation Content
 - - Adding Style
+- - Export as PDF
 - Conclusion
 - Further Reading/Resources
 
@@ -170,9 +171,20 @@ Fragments can be used to make individual elements pop! Just like slide transitio
 </section>
 ```
 - Adding Pictures
+Adding pictures in reveal.js is easy. All you need to do is add a simple line of code with a link to the picture you wish to include. 
+```
+<section>
+	<p>Count Hogula</p>
+	<img src='images\count-hogula.jpg'>
+</section>
+```
+
+![Count Hogula Picture](images/cspic.png)
 
 - videos
 - themes
+
+#### Export as PDF
 
 ## Conclusion
 
