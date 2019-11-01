@@ -116,6 +116,7 @@ The simplest way to navigate through your presentation is to simply hit the *spa
 **Arrow Keys**
 Using the *arrow keys* is also a simple way to navigate through your slides, but be careful when including verticle slides. To navigate from one slide to the next, simply use *→*. If you have verticle slides though, you must use *↓* to navigate through them. If you use *→*, the verticle slides will be skipped. As seen in the diagram, using *→* will jump from *Slide 2* to *Slide 3*, but *↓* will jump from *Slide 2* to *Slide 2A*. You must also use *→* to jump from *Slide 2B* to *Slide 3*. If by mistake you skip a slide, you can use *←* to navigate through regular slides or *↑* to navigate backwards through verticle slides. 
 
+**
 - transitions
 - pictures
 - themes
