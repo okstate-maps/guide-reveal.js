@@ -139,6 +139,7 @@ If you would rather only auto-slide through a portion of your presentation, you 
 </section>
 ```
 - Transitions
+
 Transitions are a great way to add flare to your presentation and they are simple to add! You can choose from ```concave``` ```convex``` ```fade``` ```slide``` ```zoom``` and ```none```. To add a transition, just add a little bit of code to each section, like we did with auto-slide. 
 ```
 <section data transition="fade">
@@ -155,6 +156,7 @@ You can also add different transitions for transitioning into and out of a slide
 ```
 Feel free to try these out and find a combination that works best for you!
 - Fragments
+
 Fragments can be used to make individual elements pop! Just like slide transitions, you can add multiple fragment styles to each element.
 ```
 <section>
@@ -171,6 +173,7 @@ Fragments can be used to make individual elements pop! Just like slide transitio
 </section>
 ```
 - Adding Pictures
+
 Adding pictures in reveal.js is easy. All you need to do is add a simple line of code with a link to the picture you wish to include. 
 ```
 <section>
@@ -183,6 +186,7 @@ Adding pictures in reveal.js is easy. All you need to do is add a simple line of
 
 - videos (HOW DO? DON'T KNOW)
 - Themes
+
 You can change the appearance of your presentation by using different *themes*. The files you downloaded at the beginning of this guide include some preset themes. If none of these are to your liking, though, you can create your own by altering the style settings within one of these files and saving it as a new, personal theme. 
 
 To change the theme, change this line of code in the *<head>* section:
