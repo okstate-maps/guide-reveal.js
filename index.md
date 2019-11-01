@@ -106,7 +106,7 @@ Creating verticle slides is an easy way to spice up your presentation and allows
 2. The flow of nested/verticle sections will be different based on the navigation techniques you use. We will go over these in the next section. 
 - Navigation (auto play)
 There are different ways to navigate through your presentation. I will touch on a few of these here.
-![Flow of slides](images/flow.PNG)
+![Flow of slides](images/flow.png)
 **Spacebar**
 The simplest way to navigate through your presentation is to simply hit the *space bar* every time you wish to change slides. This includes verticle slides as well. 
 - transitions
