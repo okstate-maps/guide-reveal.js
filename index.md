@@ -137,7 +137,14 @@ If you would rather only auto-slide through a portion of your presentation, you 
 	</section>
 </section>
 ```
-- transitions
+- Transitions
+Transitions are a great way to add flare to your presentation and they are simple to add! You can choose from ```concave``` ```convex``` ```fade``` ```slide``` ```zoom``` and ```none```. To add a transition, just add a little bit of code to each section, like we did with auto-slide. 
+```
+<section data transition="fade">
+	<h1>Adaptation</h1>
+	<p class="fragment fade-in">To protect themselves from predators, hedgehogs have sharp spines and...</p>
+</section>
+```
 - pictures
 - themes
 
