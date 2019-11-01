@@ -65,8 +65,46 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 3. Continue to add sections as desired.
 
 #### Style
-- verticle slides
+- Verticle Slides
+Creating verticle slides is an easy way to spice up your presentation and allows you to sort your presentations into different sections.
+1. To create verticle slides, you will simply add sections within a section. These nested sections will serve as verticle slides.
+```
+<section data-autoslide="3000"; >
+	<section>
+		<h1>Famous Hedgehogs</h1>
+	</section>
+	<section>
+		<p>Count Hogula</p>
+		<img src='images\count-hogula.jpg'>
+	</section>
+	<section>
+		<p>The God Hogger</p>
+		<img src='images\god-hogger.jpg'>
+	</section>
+	<section>
+		<p>El Hogo</p>
+		<img src='images\el-hogo.jpg'>
+	</section>
+	<section>
+		<p>Hoggalo Bill</p>
+		<img src='images\hoggalo-bill.jpg'>
+	</section>
+	<section>
+		<p>Hogiel</p>
+		<img src='images\hogiel.jpg'>
+	</section>
+	<section>
+		<p>Santa Hog</p>
+		<img src='images\santahog.jpg'>
+	</section>
+	<section>
+		<p>Hoggy Flay</p>
+		<img src='images\hoggy-flay.jpg'>
+	</section>
+</section>
+```
 - transitions
+- auto play
 - pictures
 - themes
 
