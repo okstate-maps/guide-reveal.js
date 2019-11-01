@@ -8,7 +8,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Basic Setup
 - - Folder Structure
 - - Creating Presentation Content
-- - Style
+- - Adding Style
 - Conclusion
 - Further Reading/Resources
 
@@ -64,7 +64,7 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 ```
 3. Continue to add sections as desired.
 
-#### Style
+#### Adding Style
 - Verticle Slides
 Creating verticle slides is an easy way to spice up your presentation and allows you to sort your presentations into different sections.
 1. To create verticle slides, you will simply add sections within a section. These nested sections will serve as verticle slides.
@@ -103,8 +103,13 @@ Creating verticle slides is an easy way to spice up your presentation and allows
 	</section>
 </section>
 ```
+2. The flow of nested/verticle sections will be different based on the navigation techniques you use. We will go over these in the next section. 
+- Navigation (auto play)
+There are different ways to navigate through your presentation. I will touch on a few of these here.
+![Flow of slides](images/flow.PNG)
+**Spacebar**
+The simplest way to navigate through your presentation is to simply hit the *space bar* every time you wish to change slides. This includes verticle slides as well. 
 - transitions
-- auto play
 - pictures
 - themes
 
