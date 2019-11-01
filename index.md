@@ -21,7 +21,6 @@ In this guide, I will walk you through the basic steps needed to create your own
 #### Basic Setup
 The **basic setup** allows you to author your very own presentations only. There is a **full setup**, but we'll go over this in another guide. 
 1. To get started, you need to download the lastest version of reveal.js from [this website](https://github.com/hakimel/reveal.js/releases).
-
 2. Unzip and replace the contents in index.html with your own presentation content.
 3. Use a browser to open and view your presentation.
 
@@ -56,6 +55,7 @@ I, personally, prefer to create my presentation content before I get too mixed u
 </html>
 ```
 The order of the presentation markup must be *.reveal > .slides > section*. Each *section* represents a different slide. 
+
 2. Let's create a title page. For my presentation, I will be talking about hedgehogs, so this is the code for my very first slide. 
 ```
 <section>
