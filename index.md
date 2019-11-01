@@ -145,6 +145,14 @@ Transitions are a great way to add flare to your presentation and they are simpl
 	<p class="fragment fade-in">To protect themselves from predators, hedgehogs have sharp spines and...</p>
 </section>
 ```
+You can also add different transitions for transitioning into and out of a slide. 
+```
+<section data transition="covex-in concave-out">
+	<h1>Reproduction</h1>
+	<p class="fragment fade-in">Hedgehogs are solitary animals and on couple for mating purposes...</p>
+</section>
+```
+Feel free to try these out and find a combination that works best for you!
 - pictures
 - themes
 
