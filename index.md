@@ -69,7 +69,7 @@ The order of the presentation markup must be *.reveal > .slides > section*. Each
 Creating verticle slides is an easy way to spice up your presentation and allows you to sort your presentations into different sections.
 1. To create verticle slides, you will simply add sections within a section. These nested sections will serve as verticle slides.
 ```
-<section data-autoslide="3000"; >
+<section>
 	<section>
 		<h1>Famous Hedgehogs</h1>
 	</section>
