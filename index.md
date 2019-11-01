@@ -153,7 +153,25 @@ You can also add different transitions for transitioning into and out of a slide
 </section>
 ```
 Feel free to try these out and find a combination that works best for you!
-- pictures
+- Fragments
+Fragments can be used to make individual elements pop! Just like slide transitions, you can add multiple fragment styles to each element.
+```
+<section>
+	<p class="fragment grow">Hi!</p>
+	<p class="fragment shrink">I'm a hedgehog.</p>
+	<p class="fragment fade-out">I am very shy,</p>
+	<p class="fragment fade-up">but I like to make friends.</p>
+	<p class="fragment fade-in-then-out">Will you be my friend?</p>
+	<p class="fragment fade-in-then-semi-out">We can take naps,</p>
+	<p class="fragment highlight-current-blue">or eat tasty snacks!</p>
+	<p class="fragment highlight-red">I love to eat apples,</p>
+	<p class="fragment highlight-green">or veggies</p>
+	<p class="fragment highlight-blue">and drink lots of water!</p>
+</section>
+```
+- Adding Pictures
+
+- videos
 - themes
 
 ## Conclusion
