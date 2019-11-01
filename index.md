@@ -104,7 +104,7 @@ Creating verticle slides is an easy way to spice up your presentation and allows
 </section>
 ```
 2. The flow of nested/verticle sections will be different based on the navigation techniques you use. We will go over these in the next section. 
-- Navigation (auto play)
+- Navigation
 
 There are different ways to navigate through your presentation. I will touch on a few of these here.
 
@@ -116,7 +116,27 @@ The simplest way to navigate through your presentation is to simply hit the *spa
 **Arrow Keys**
 Using the *arrow keys* is also a simple way to navigate through your slides, but be careful when including verticle slides. To navigate from one slide to the next, simply use *→*. If you have verticle slides though, you must use *↓* to navigate through them. If you use *→*, the verticle slides will be skipped. As seen in the diagram, using *→* will jump from *Slide 2* to *Slide 3*, but *↓* will jump from *Slide 2* to *Slide 2A*. You must also use *→* to jump from *Slide 2B* to *Slide 3*. If by mistake you skip a slide, you can use *←* to navigate through regular slides or *↑* to navigate backwards through verticle slides. 
 
-**
+*Note: There are ways to override this, but we will go over that in a more advanced reveal.js guide. (See link at the bottom of the page.)*
+
+**Auto-sliding**
+You can configure auto-sliding to avoid manual navigation altogether. There are two different ways to achieve this. If you want automatic navigation through the whole presentation, you can add this code to your configuration settings.
+```
+<script>
+	// Slide every 3 seconds
+	Reveal.configure({
+  		autoSlide: 3000
+	});	
+</script>
+```
+If you would rather only auto-slide through a portion of your presentation, you can enter a simple line of code to that section.
+```
+// Slide every 3 seconds through this section only
+<section data-autoslide="3000"; >
+	<section>
+		<h1>Famous Hedgehogs</h1>
+	</section>
+</section>
+```
 - transitions
 - pictures
 - themes
