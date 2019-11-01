@@ -179,7 +179,7 @@ Adding pictures in reveal.js is easy. All you need to do is add a simple line of
 </section>
 ```
 
-![Count Hogula Picture](images/cspic.png)
+![Count Hogula Picture](images/cspic.PNG)
 
 - videos
 - themes
