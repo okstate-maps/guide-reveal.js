@@ -218,8 +218,9 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 ![Saving a PDF](images/SavePDF.PNG)
 
 ## Conclusion
+Make your presentations a step above the rest with *reveal.js*!
 
 ## Further Reading/Resources
-
+For more information, or to learn about features not discussed here, please see this [guide](https://github.com/hakimel/reveal.js#internal-links).
 
 [Return to Top](#about)
