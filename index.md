@@ -185,7 +185,6 @@ Adding pictures in reveal.js is easy. All you need to do is add a simple line of
 
 ![Count Hogula Picture](images/cspic.PNG)
 
-- ***videos (HOW DO? DON'T KNOW)***
 - ***Themes***
 
 You can change the appearance of your presentation by using different *themes*. The files you downloaded at the beginning of this guide include some preset themes. If none of these are to your liking, though, you can create your own by altering the style settings within one of these files and saving it as a new, personal theme. 
@@ -201,10 +200,22 @@ To change the theme, change this line of code in the *<head>* section:
 
 ![Preset Themes](images/themes.PNG)
 
-
-
 #### Export as PDF
-(dont know how do either)
+Your presentations can be exported as PDFs to share with others or save for yourself. The only downside is that you must use Google Chrome or Chromium and have to be serving the presentation from a web server. Other than that, it's just a few simple steps!
+
+1. To do this, you will need to include a few lines of code in your *script* tag. If you used the template in the first section, this should already be there. 
+```
+link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+document.getElementsByTagName( 'head' )[0].appendChild( link );
+```
+2. Open the print dialog box in your browser. 
+3. Change the *Destination* to *Save as PDF*.
+4. Change *Layout* to *Landscape*.
+5. Change *Margins* to *None*.
+6. Enable the *Background graphics* option.
+7. Click *Save*.
+
+![Saving a PDF](images/SavePDF.PNG)
 
 ## Conclusion
 
